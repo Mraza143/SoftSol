@@ -1,7 +1,6 @@
 .aa{
 
     height: 100%;
-    background-image: "messi.jpg";
     font-size: 10rem;
     color:white;
 }
@@ -10,4 +9,6 @@ body{
    
     background-color: brown;
     background-image: url("../images/messi.jpg");
+    background-position: center;
+    background-size: cover;
 }
